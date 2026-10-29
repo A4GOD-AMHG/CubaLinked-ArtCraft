@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS art_works CASCADE;

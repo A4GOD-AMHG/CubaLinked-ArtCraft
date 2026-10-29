@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS art_order_specs CASCADE;
